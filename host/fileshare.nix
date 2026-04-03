@@ -8,7 +8,7 @@
     };
 
     fileSystems."/mnt/mediashare" = {
-        device = "//192.168.10.26/Media";
+        device = "//192.168.10.36/video";
         fsType = "cifs";
         options =
             [
